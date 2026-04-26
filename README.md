@@ -242,10 +242,8 @@ Excel-based guest house management system with professional check-in/check-out s
 
 ## 📞 Contact
 
-For customization or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
