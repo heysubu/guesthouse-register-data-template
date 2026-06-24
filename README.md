@@ -240,11 +240,6 @@ Excel-based guest house management system with professional check-in/check-out s
 - Audit trail maintenance
 - Compliance documentation
 
-## 📞 Contact
-
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
-
 ## 📄 License
 
 MIT License - Free to use and modify
